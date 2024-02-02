@@ -20,7 +20,7 @@ public class Main {
                 Ano de lançamento
                 """+ anoDeLancamento;
         System.out.println(sinopse);
-        
+                    
         int classificacao = (int) (media /2);
         System.out.println(classificacao);
         
